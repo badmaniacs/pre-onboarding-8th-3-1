@@ -1,3 +1,23 @@
+## 실행 방법
+
+해당 프로젝트가 작동하기 위해서는
+https://github.com/walking-sunset/assignment-api_8th의 API 서버를 실행시켜야 한다.
+
+1. packages 설치
+
+   ```
+   npm install
+   ```
+
+2. 실행
+
+   ```
+   npm start
+   ```
+
+<br />
+
+
 ### Assignment1
 
 - [x] 입력마다 API 호출하지 않도록 API 호출 횟수를 줄이는 전략 수립 및 실행
